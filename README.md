@@ -57,7 +57,7 @@ Na aba Network (Rede) das ferramentas de desenvolvedor, podemos ver várias
 requisições para arquivos com o formato `segment__{NUMERO}.ts`, como mostrado na
 figura abaixo.
 
-[network.png](network.png)
+![network.png](network.png)
 
 Realizando na mão uma dessas requisições, podemos ver que um arquivo é baixado.
 Clicando nesse arquivo, é possível ver que ele corresponde a um segmento do
