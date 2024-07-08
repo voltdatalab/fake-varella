@@ -40,7 +40,7 @@ python3 script.py
 
 O script irá recriar o arquivo `list.txt` e o diretório `data`, contendo os
 fragmentos do vídeo em qualidade 720p. Para concatená-los em um único arquivo
-(`final.data`), execute o seguinte comando:
+(`final.mp4`), execute o seguinte comando:
 
 ```bash
 ffmpeg -f concat -safe 0 -i list.txt -c copy final.mp4
